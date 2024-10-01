@@ -1,7 +1,7 @@
 ## LWGAN
 
 This folder contains the code to reproduce the experiments in the article
-*Adaptive Learning of the Latent Space of Wasserstein Generative Adversarial Networks*.
+[Adaptive Learning of the Latent Space of Wasserstein Generative Adversarial Networks](https://arxiv.org/abs/2409.18374).
 
 ### Structure
 
